@@ -1,5 +1,4 @@
 # Scanan-Go
-ScananGO 2021
 
 ## Description
 Scanan-Go is a Contact Tracing System that records individuals visiting certain establishments.
